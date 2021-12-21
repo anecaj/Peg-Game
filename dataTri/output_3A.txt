@@ -1,0 +1,25 @@
+Enter filename: data/3.txt
+
+  -   
+ o o  
+o o o 
+      
+>> move 2 0 0 0
+
+  o   
+ - o  
+- o o 
+      
+>> move 2 2 2 0
+
+  o 
+ - o
+o - -
+
+>> move 0 0 2 2
+No more moves!
+  -
+ - -
+o - o
+
+Goodbye!

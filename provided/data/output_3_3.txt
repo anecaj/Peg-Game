@@ -1,0 +1,58 @@
+Enter filename: data/3_3.txt
+
+ooo
+ooo
+-oo
+   
+>> move 1 1 2 0
+Invalid move.
+
+ooo
+ooo
+-oo
+
+>> move 0 2 2 0
+
+oo-
+o-o
+ooo
+   
+>> move 0 0 0 2
+
+--o
+o-o
+ooo
+
+>> move 2 0 0 0
+
+o-o
+--o
+-oo
+
+>> solve
+This game is unwinnable. Have a nice day.
+
+o-o
+--o
+-oo
+
+>> move 2 2 2 0
+
+o-o
+--o
+o--
+
+>> hint
+This game is unwinnable. Have a nice day.
+
+o-o
+--o
+o--
+
+>> move 0 2 2 2
+No more moves!
+o--
+---
+o-o
+
+Goodbye!

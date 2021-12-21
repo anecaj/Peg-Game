@@ -1,0 +1,20 @@
+Enter filename: data/3.txt
+
+  -
+ o o
+o o o
+
+>> hint
+This game is unwinnable. Have a nice day.
+
+  -
+ o o
+o o o
+
+>> quit
+Are you sure (y/n): y
+  - 
+ o o
+o o o
+
+Goodbye!

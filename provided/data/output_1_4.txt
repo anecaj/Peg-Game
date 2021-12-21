@@ -1,0 +1,13 @@
+Enter filename: data/1_4.txt
+
+o-oo
+    
+>> move 0 3 0 1
+
+oo--
+    
+>> move 0 0 0 2
+You won!
+--o-    
+        
+Goodbye!

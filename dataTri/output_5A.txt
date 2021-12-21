@@ -1,0 +1,83 @@
+Enter filename: data/5.txt
+
+    -
+   o o
+  o o o
+ o o o o
+o o o o o
+
+>> move 2 0 0 0
+
+    o
+   - o
+  - o o
+ o o o o
+o o o o o
+
+>> move 2 2 2 0
+
+    o
+   - o
+  o - -
+ o o o o
+o o o o o
+
+>> move 0 0 2 2
+
+    -
+   - -
+  o - o
+ o o o o
+o o o o o
+
+>> hint
+hint: Move from (4, 1) to (2, 1)
+
+    -
+   - -
+  o - o
+ o o o o
+o o o o o
+
+>> move 4 1 2 1
+
+    -
+   - -
+  o o o
+ o - o o
+o - o o o
+
+>> move 4 3 4 1
+
+    -
+   - -
+  o o o
+ o - o o
+o o - - o
+
+>> move 2 1 4 3
+
+    -
+   - -
+  o - o
+ o - - o
+o o - o o
+
+>> solve
+This game is unwinnable. Have a nice day.
+
+    -
+   - -
+  o - o
+ o - - o
+o o - o o
+
+>> quit
+Are you sure (y/n): y
+    - 
+   - -
+  o - o
+ o - - o
+o o - o o
+
+Goodbye!

@@ -1,0 +1,76 @@
+Enter filename: data/3_3.txt
+
+ooo
+ooo
+-oo
+   
+>> help
+Available commands: 
+  help - displays this message
+  move r1 c1 r2 c2 - attempts to move a peg from r1 c1 to r2 c2 on the board.
+  hint - displays an available move.
+  quit - quits the game
+
+ooo
+ooo
+-oo
+
+>> quit
+Are you sure (y/n): n
+
+ooo
+ooo
+-oo
+
+>> move 0 2 2 0
+
+oo-
+o-o
+ooo
+
+>> hint
+hint: Move from (0, 0) to (0, 2)
+
+oo-
+o-o
+ooo
+
+>> move 0 0 0 2
+
+--o
+o-o
+ooo
+
+>> move 2 0 0 0
+
+o-o
+--o
+-oo
+
+>> move 2 2 0 0
+Invalid move.
+
+o-o
+--o
+-oo
+
+>> move 2 3 4
+Invalid move.
+
+o-o
+--o
+-oo
+
+>> move 2 2 2 0
+
+o-o
+--o
+o--
+
+>> move 0 2 2 2
+No more moves!
+o--
+---
+o-o
+
+Goodbye!

@@ -1,0 +1,108 @@
+Enter filename: data/5.txt
+
+    -
+   o o
+  o o o
+ o o o o
+o o o o o
+
+>> solve
+    - 
+   o o
+  o o o
+ o o o o
+o o o o o
+
+Move from (2, 0) to (0, 0)
+    o
+   - o
+  - o o
+ o o o o
+o o o o o
+
+Move from (4, 0) to (2, 0)
+    o
+   - o
+  o o o
+ - o o o
+- o o o o
+
+Move from (3, 2) to (3, 0)
+    o
+   - o
+  o o o
+ o - - o
+- o o o o
+
+Move from (3, 0) to (1, 0)
+    o
+   o o
+  - o o
+ - - - o
+- o o o o
+
+Move from (0, 0) to (2, 0)
+    -
+   - o
+  o o o
+ - - - o
+- o o o o
+
+Move from (1, 1) to (3, 1)
+    -
+   - -
+  o - o
+ - o - o
+- o o o o
+
+Move from (4, 1) to (2, 1)
+    -
+   - -
+  o o o
+ - - - o
+- - o o o
+
+Move from (4, 3) to (4, 1)
+    -
+   - -
+  o o o
+ - - - o
+- o - - o
+
+Move from (3, 3) to (1, 1)
+    -
+   - o
+  o o -
+ - - - -
+- o - - o
+
+Move from (1, 1) to (3, 1)
+    -
+   - -
+  o - -
+ - o - -
+- o - - o
+
+Move from (2, 0) to (4, 2)
+    -
+   - -
+  - - -
+ - - - -
+- o o - o
+
+Move from (4, 1) to (4, 3)
+    -
+   - -
+  - - -
+ - - - -
+- - - o o
+
+Move from (4, 4) to (4, 2)
+You won!
+    -
+   - -
+  - - -
+ - - - -
+- - o - -
+
+Goodbye!
